@@ -1,0 +1,75 @@
+Vector exercise: constructor
+-No errors found.
+
+Vector exercise: copy constructor
+-No errors found.
+
+Vector exercise: [] operator
+-No errors found.
+
+Vector exercise: = operator
+-No errors found.
+
+Vector exercise: unary - operator
+-No errors found.
+
+Vector exercise: + operator
+-No errors found.
+
+Vector exercise: - operator
+-No errors found.
+
+Vector exercise: * operator
+-No errors found.
+
+Vector exercise: 3 norm
+-No errors found.
+
+Matrix exercise: constructor
+-No errors found.
+
+Matrix exercise: copy constructor
+-No errors found.
+
+Matrix exercise: () operator
+-No errors found.
+
+Matrix exercise: = operator
+-No errors found.
+
+Matrix exercise: unary - operator
+-No errors found.
+
+Matrix exercise: + operator
+-No errors found.
+
+Matrix exercise: - operator
+-No errors found.
+
+Matrix exercise: * operator
+-No errors found.
+
+Matrix exercise: matrix * vector
+-No errors found.
+
+Matrix exercise: vector * matrix
+-No errors found.
+
+Matrix exercise: internal struct
+-No errors found.
+
+Sparse vector exercise: construct
+-No errors found.
+
+Sparse vector exercise: insertion, setValue, getValue etc
+-No errors found.
+
+Sparse vector exercise: copy ctor
+-No errors found.
+
+Sparse vector exercise: assignment operator
+-No errors found.
+
+Sparse vector exercise: math operators
+-No errors found.
+
